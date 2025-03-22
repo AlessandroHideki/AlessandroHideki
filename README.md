@@ -1,6 +1,7 @@
 Hi there! 👋 
 
-I'm Alessandro Hideki, a Front-End Developer passionate about building clean and responsive web interfaces. I'm always learning and improving my skills in HTML and CSS, and currently exploring Java to expand my programming knowledge.
+I'm Alessandro Hideki, a Front-End Developer passionate about building clean and responsive web interfaces. 
+I'm always learning and improving my skills in HTML and CSS, and currently exploring Java to expand my programming knowledge.
 
 🚀 Skills & Technologies:
 -> HTML
